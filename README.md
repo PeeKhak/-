@@ -76,7 +76,7 @@
     </style>
 </head>
 <body>
-    <h1>ល្បែងទីតក់ ធ្វើខ្នែង</h1>
+    <h1>លេងកុំគិតធ្វើការ</h1>
     <div id="status">Select a difficulty to start</div>
     <div id="controls">
         <button id="hard-bot" class="difficulty-btn">Hard Bot</button>
